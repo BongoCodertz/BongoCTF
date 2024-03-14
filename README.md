@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Apache%20Server-purple?style=for-the-badge&logo=apache" alt="Apache Server">
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Fedora%20OS-blue?style=for-the-badge&logo=fedora" alt="Fedora OS">
-  <img src="https://img.shields.io/badge/Tanzania-🇹🇿-green?style=for-the-badge" alt="Tanzania Flag">
+  <img src="https://img.shields.io/badge/Tanzania-🖐-green?style=for-the-badge" alt="Tanzania Flag">
   <img src="https://img.shields.io/badge/Blackhat-black?style=for-the-badge" alt="Blackhat">
   <br>
   <a href="https://www.instagram.com/your_username/">
